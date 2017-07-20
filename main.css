@@ -60,24 +60,23 @@ border-radius:25%;
     display: flex;
     flex-direction: column;
     color: white;
-    background-color: #1f1f1f;
+    background-color: red;
+background-image: url("http://eztechtraining.com/wp-content/uploads/2012/10/music_notes1.jpg");
+backgroung-size:cover;
 }
 
 .main header {
     height: 80px;
-    background-color: #282828;
     padding: 1rem;
     color: #FFF;
 }
 
 .main .content {
     flex:1;
-    background-color: #1f1f1f;
-}
+   }
 
 .main footer {
     height: 80px;
-    background-color: #282828;
     padding-top: 1rem;
 }
 
